@@ -1,0 +1,5 @@
+baseURL = "https://ivanvalkov.com/"
+languageCode = "en-us"
+title = "Ivan's website"
+theme = "ananke"
+publishDir = "../docs"
