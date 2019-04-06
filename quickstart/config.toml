@@ -1,5 +1,24 @@
 baseURL = "https://ivanvalkov.com/"
 languageCode = "en-us"
-title = "Ivan's website"
-theme = "ananke"
+defaultContentLanguage = "en"
+title = ""
+theme = "KeepIt"
 publishDir = "../docs"
+
+paginate = 12
+enableRobotsTXT = true
+
+[params]
+    author = "Ivan Valkov"
+    subtitle = "Ivan Valkov"
+    avatar = "images/profile.jpg"
+    socialShare = true
+    home_mode = ""
+
+    description = ""
+    keywords = "Ivan Valkov"
+
+[params.social]
+    Linkedin = "ivan-valkov"
+    GitHub = "ivan-valkov"
+
